@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer on کارِج</title>
+    <link>https://karej.ir/tags/developer/</link>
+    <description>Recent content in Developer on کارِج</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language>
+    <lastBuildDate>Thu, 13 May 2021 18:53:45 +0430</lastBuildDate><atom:link href="https://karej.ir/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>برنامه‌نویس ارشد Frontend</title>
+      <link>https://karej.ir/jobs/00014-frontend-dizzbo/</link>
+      <pubDate>Thu, 13 May 2021 18:53:45 +0430</pubDate>
+      
+      <guid>https://karej.ir/jobs/00014-frontend-dizzbo/</guid>
+      <description>اقدام برای این موقعیت شغلی</description>
+    </item>
+    
+    <item>
+      <title>مهندس Solution Engineer</title>
+      <link>https://karej.ir/jobs/00013-solution-messagebird/</link>
+      <pubDate>Thu, 13 May 2021 18:50:59 +0430</pubDate>
+      
+      <guid>https://karej.ir/jobs/00013-solution-messagebird/</guid>
+      <description>اقدام برای این موقعیت شغلی</description>
+    </item>
+    
+    <item>
+      <title>توسعه‌دهنده نرم‌افزار</title>
+      <link>https://karej.ir/jobs/00012-developer-reaktor/</link>
+      <pubDate>Thu, 13 May 2021 18:47:32 +0430</pubDate>
+      
+      <guid>https://karej.ir/jobs/00012-developer-reaktor/</guid>
+      <description>اقدام برای این موقعیت شغلی</description>
+    </item>
+    
+  </channel>
+</rss>

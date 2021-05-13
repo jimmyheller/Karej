@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on کارِج</title>
+    <link>https://karej.ir/tags/</link>
+    <description>Recent content in Tags on کارِج</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language>
+    <lastBuildDate>Thu, 13 May 2021 18:53:45 +0430</lastBuildDate><atom:link href="https://karej.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developer</title>
+      <link>https://karej.ir/tags/developer/</link>
+      <pubDate>Thu, 13 May 2021 18:53:45 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://karej.ir/tags/ios/</link>
+      <pubDate>Thu, 13 May 2021 18:45:59 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://karej.ir/tags/c&#43;&#43;/</link>
+      <pubDate>Thu, 13 May 2021 18:44:23 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://karej.ir/tags/python/</link>
+      <pubDate>Thu, 13 May 2021 18:42:40 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://karej.ir/tags/database/</link>
+      <pubDate>Thu, 13 May 2021 18:32:24 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://karej.ir/tags/java/</link>
+      <pubDate>Thu, 13 May 2021 18:27:07 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>https://karej.ir/tags/frontend/</link>
+      <pubDate>Thu, 13 May 2021 18:23:34 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://karej.ir/tags/security/</link>
+      <pubDate>Thu, 13 May 2021 18:17:20 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://karej.ir/tags/android/</link>
+      <pubDate>Thu, 13 May 2021 18:15:05 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GO</title>
+      <link>https://karej.ir/tags/go/</link>
+      <pubDate>Thu, 13 May 2021 18:13:06 +0430</pubDate>
+      
+      <guid>https://karej.ir/tags/go/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
