@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SRE on کارِج</title>
+    <link>https://karej.ir/tags/sre/</link>
+    <description>Recent content in SRE on کارِج</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language>
+    <lastBuildDate>Fri, 14 May 2021 12:07:04 +0430</lastBuildDate><atom:link href="https://karej.ir/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>مهندس Full Stack Javascript</title>
+      <link>https://karej.ir/jobs/00024-js-rokt/</link>
+      <pubDate>Fri, 14 May 2021 12:07:04 +0430</pubDate>
+      
+      <guid>https://karej.ir/jobs/00024-js-rokt/</guid>
+      <description>اقدام برای این موقعیت شغلی</description>
+    </item>
+    
+    <item>
+      <title>SRE (DevOs, SysAdmin)</title>
+      <link>https://karej.ir/jobs/00022-sre-kailo/</link>
+      <pubDate>Fri, 14 May 2021 12:03:59 +0430</pubDate>
+      
+      <guid>https://karej.ir/jobs/00022-sre-kailo/</guid>
+      <description>اقدام برای این موقعیت شغلی</description>
+    </item>
+    
+  </channel>
+</rss>

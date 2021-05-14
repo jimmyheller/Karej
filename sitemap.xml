@@ -4,22 +4,317 @@
   
   <url>
     <loc>https://karej.ir/newsletters/12/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
   </url>
   
   <url>
     <loc>https://karej.ir/newsletters/13/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
   </url>
   
   <url>
     <loc>https://karej.ir/companies/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
   </url>
   
   <url>
     <loc>https://karej.ir/countries/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/frontend/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/newsletters/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/youwe/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00035-frontend-youwe/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/countries/%D9%87%D9%84%D9%86%D8%AF/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/</loc>
+    <lastmod>2021-05-14T12:32:49+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/fullstack/</loc>
+    <lastmod>2021-05-14T12:31:14+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/samotics/</loc>
+    <lastmod>2021-05-14T12:31:14+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00034-fullstack-samotics/</loc>
+    <lastmod>2021-05-14T12:31:14+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/clay/</loc>
+    <lastmod>2021-05-14T12:29:38+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/devops/</loc>
+    <lastmod>2021-05-14T12:29:38+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00033-devops-clay/</loc>
+    <lastmod>2021-05-14T12:29:38+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/backend/</loc>
+    <lastmod>2021-05-14T12:28:26+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/worldline/</loc>
+    <lastmod>2021-05-14T12:28:26+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00032-go-worldline/</loc>
+    <lastmod>2021-05-14T12:28:26+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/tessian/</loc>
+    <lastmod>2021-05-14T12:26:42+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/countries/%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/</loc>
+    <lastmod>2021-05-14T12:26:42+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00031-backend-tessian/</loc>
+    <lastmod>2021-05-14T12:26:42+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/java/</loc>
+    <lastmod>2021-05-14T12:25:28+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/sanger/</loc>
+    <lastmod>2021-05-14T12:25:28+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00030-java-sanger/</loc>
+    <lastmod>2021-05-14T12:25:28+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/compose/</loc>
+    <lastmod>2021-05-14T12:24:22+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00029-backend-compose/</loc>
+    <lastmod>2021-05-14T12:24:22+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00028-frontend-compose/</loc>
+    <lastmod>2021-05-14T12:23:05+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/authentise/</loc>
+    <lastmod>2021-05-14T12:21:35+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/php/</loc>
+    <lastmod>2021-05-14T12:21:35+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00027-php-authentise/</loc>
+    <lastmod>2021-05-14T12:21:35+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/canva/</loc>
+    <lastmod>2021-05-14T12:16:40+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/countries/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%DB%8C%D8%A7/</loc>
+    <lastmod>2021-05-14T12:16:40+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00026-java-canva/</loc>
+    <lastmod>2021-05-14T12:16:40+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00025-frontend-canva/</loc>
+    <lastmod>2021-05-14T12:11:22+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/rokt/</loc>
+    <lastmod>2021-05-14T12:07:04+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/sre/</loc>
+    <lastmod>2021-05-14T12:07:04+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00024-js-rokt/</loc>
+    <lastmod>2021-05-14T12:07:04+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/lead/</loc>
+    <lastmod>2021-05-14T12:05:43+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/pragmateam/</loc>
+    <lastmod>2021-05-14T12:05:43+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00023-lead-pragmateam/</loc>
+    <lastmod>2021-05-14T12:05:43+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/kailo/</loc>
+    <lastmod>2021-05-14T12:03:59+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00022-sre-kailo/</loc>
+    <lastmod>2021-05-14T12:03:59+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/countries/%D8%A2%D9%84%D9%85%D8%A7%D9%86/</loc>
+    <lastmod>2021-05-14T12:03:59+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/auto1/</loc>
+    <lastmod>2021-05-14T12:02:22+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/ios/</loc>
+    <lastmod>2021-05-14T12:02:22+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00021-ios-auto1/</loc>
+    <lastmod>2021-05-14T12:02:22+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/pair-finance/</loc>
+    <lastmod>2021-05-14T12:01:04+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/ruby/</loc>
+    <lastmod>2021-05-14T12:01:04+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00020-ruby-pairfinance/</loc>
+    <lastmod>2021-05-14T12:01:04+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/neufund/</loc>
+    <lastmod>2021-05-14T11:59:41+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/react/</loc>
+    <lastmod>2021-05-14T11:59:41+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00019-react-neufund/</loc>
+    <lastmod>2021-05-14T11:59:41+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/forto/</loc>
+    <lastmod>2021-05-14T11:58:07+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00018-frontend-forto/</loc>
+    <lastmod>2021-05-14T11:58:07+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/researchgate/</loc>
+    <lastmod>2021-05-14T11:56:53+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00017-django-regiohelden/</loc>
+    <lastmod>2021-05-14T11:56:53+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00016-php-researchgate/</loc>
+    <lastmod>2021-05-14T11:55:09+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/tags/reacct/</loc>
+    <lastmod>2021-05-14T11:53:37+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/companies/wooga/</loc>
+    <lastmod>2021-05-14T11:53:37+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karej.ir/jobs/00015-react-wooga/</loc>
+    <lastmod>2021-05-14T11:53:37+04:30</lastmod>
   </url>
   
   <url>
@@ -33,32 +328,7 @@
   </url>
   
   <url>
-    <loc>https://karej.ir/jobs/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karej.ir/newsletters/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karej.ir/tags/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karej.ir/countries/%D8%A2%D9%84%D9%85%D8%A7%D9%86/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://karej.ir/jobs/00014-frontend-dizzbo/</loc>
-    <lastmod>2021-05-13T18:53:45+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karej.ir/</loc>
     <lastmod>2021-05-13T18:53:45+04:30</lastmod>
   </url>
   
@@ -73,11 +343,6 @@
   </url>
   
   <url>
-    <loc>https://karej.ir/countries/%D9%87%D9%84%D9%86%D8%AF/</loc>
-    <lastmod>2021-05-13T18:50:59+04:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://karej.ir/companies/reaktor/</loc>
     <lastmod>2021-05-13T18:47:32+04:30</lastmod>
   </url>
@@ -85,11 +350,6 @@
   <url>
     <loc>https://karej.ir/jobs/00012-developer-reaktor/</loc>
     <lastmod>2021-05-13T18:47:32+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karej.ir/tags/ios/</loc>
-    <lastmod>2021-05-13T18:45:59+04:30</lastmod>
   </url>
   
   <url>
@@ -148,18 +408,8 @@
   </url>
   
   <url>
-    <loc>https://karej.ir/tags/java/</loc>
-    <lastmod>2021-05-13T18:27:07+04:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://karej.ir/jobs/00007-java-degiro/</loc>
     <lastmod>2021-05-13T18:27:07+04:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karej.ir/tags/frontend/</loc>
-    <lastmod>2021-05-13T18:23:34+04:30</lastmod>
   </url>
   
   <url>
